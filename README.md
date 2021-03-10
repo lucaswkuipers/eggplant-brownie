@@ -1,4 +1,4 @@
-## Conhecendo o Git (alterado por Lucas Kuipers)
+## Conhecendo o Git (alteração da pasta 1)
 
 ##### Instalação
 
