@@ -1,4 +1,4 @@
-## Conhecendo o Git 
+## Conhecendo o Git (alterado por Lucas Kuipers)
 
 ##### Instalação
 
