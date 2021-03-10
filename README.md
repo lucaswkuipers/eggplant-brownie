@@ -1,4 +1,4 @@
-## Conhecendo o Git (alteração da pasta 1)
+## Conhecendo o Git (mudei a pasta 2)
 
 ##### Instalação
 
